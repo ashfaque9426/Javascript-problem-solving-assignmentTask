@@ -40,7 +40,7 @@ const sumResult = sumOfPosNums(inputArray);
 // console.log(sumResult);
 
 
-// Write a JavaScript program to find the most frequent element in an array and return it.
+// 3. Write a JavaScript program to find the most frequent element in an array and return it.
 
 const inputArray2 = [3, 5, 2, 5, 3, 3, 1, 4, 4, 3, 4, 5, 4];
 
@@ -73,7 +73,7 @@ const findMostFreqElem = arr => {
 }
 
 const freqElemResult = findMostFreqElem(inputArray2);
-console.log(freqElemResult);
+// console.log(freqElemResult);
 
 
 // 4. Create a function that takes a sorted array of numbers and a target value as input. The function should find two numbers in the array that add up to the target value. Return an array containing the indices of the two numbers.
